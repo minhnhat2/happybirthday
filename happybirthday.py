@@ -107,5 +107,5 @@ def my_goto(x,y):
 
 turtle.pendown()
 my_goto(-150,150)
-turtle.write('BY: @Nhatdeptrai',font=("Minh Nhật",10,"bold"))
+turtle.write('BY: @Nhatdeptrai',font=("Bradley Hand ITC",10,"bold"))
 turtle.done()
