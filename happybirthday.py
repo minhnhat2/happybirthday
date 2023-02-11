@@ -6,7 +6,7 @@ bg.bgcolor("black")
 bg.title(f"HAPPY BIRTHDAY FOR YOU")
 
 pen=turtle.Turtle()
-pen.speed(0)
+pen.speed(0) 
 pen.color("yellow")
 pen.penup()
 pen.hideturtle()
